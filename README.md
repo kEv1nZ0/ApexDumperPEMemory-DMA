@@ -1,3 +1,5 @@
+[English](README.md) | [简体中文](README.zh.md)
+
 # APEX LEGENDS DUMPER (DMA VERSION)
 
 Dump PE Memory —— **DMA version**. No kernel driver needed on the target machine; memory is read through a DMA device (PCILeech / FPGA, etc.).
