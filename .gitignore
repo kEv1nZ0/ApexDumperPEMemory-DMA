@@ -1,0 +1,23 @@
+# Build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipdb
+*.iobj
+
+# VS user files
+*.vcxproj.user
+*.suo
+.vs/
+
+# Dumps
+*_dumped.exe
+game_dumped.exe
